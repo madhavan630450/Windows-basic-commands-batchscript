@@ -26,10 +26,12 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 ![alt text](img/01.png)
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 ![alt text](img/02.png)
+
 
 Create the file Rose.txt
 
@@ -40,10 +42,12 @@ Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 ![alt text](img/04.png)
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 ![alt text](img/05.png)
+
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
