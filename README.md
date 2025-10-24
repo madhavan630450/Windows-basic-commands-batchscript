@@ -25,11 +25,11 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-![alt text](../01.png)
+![alt text](img/01.png)
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-![alt text](../02.png)
+![alt text](img/02.png)
 
 Create the file Rose.txt
 
@@ -48,6 +48,7 @@ Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 ![alt text](img/06.png)
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
